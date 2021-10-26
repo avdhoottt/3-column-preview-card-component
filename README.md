@@ -12,13 +12,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](.design/desktop-preview.jpg)
+![](./design/desktop-preview.jpg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/Ajf2003/3-column-preview-card-component]
+- Live Site URL: [https://ajf2003.github.io/3-column-preview-card-component/]
 
 ## My process
 First, I wrote the HTML code and then I started to design it.
